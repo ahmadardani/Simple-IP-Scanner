@@ -16,3 +16,18 @@ sudo dnf install nmap
 sudo pacman -Syu nmap
 ```
 # How to Run Program
+## Git Clone this Repository
+```bash
+https://github.com/ahmadardani/Simple-IP-Scanner.git
+```
+## and then
+```bash
+cd Simple-IP-Scanner
+```
+## Run
+```bash
+chmod +x scan.sh
+```
+```bash
+./scan.sh
+```
